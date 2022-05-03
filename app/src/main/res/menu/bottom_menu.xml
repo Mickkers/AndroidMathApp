@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/counter"
+        android:icon="@drawable/plusminus3"
+        android:title="Counter" />
+    <item
+        android:id="@+id/area"
+        android:icon="@drawable/area2"
+        android:title="Area" />
+    <item
+        android:id="@+id/volume"
+        android:icon="@drawable/cube"
+        android:title="Volume" />
+</menu>

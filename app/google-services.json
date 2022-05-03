@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1016424017453",
+    "project_id": "lnt-final-project-8cdd0",
+    "storage_bucket": "lnt-final-project-8cdd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016424017453:android:1953d6f0187c2af2ee12a4",
+        "android_client_info": {
+          "package_name": "com.mickkers.lntfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016424017453-4tsjtkv76qvsj6htfrblrs7au097otg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA31Na96v7LRr12H4RdyRLFxMl5yxqNgBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016424017453-4tsjtkv76qvsj6htfrblrs7au097otg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
